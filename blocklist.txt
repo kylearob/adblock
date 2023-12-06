@@ -4,3 +4,8 @@
 ||instagram.com^
 ||tiktok.com^
 ||reddit.com^
+
+! Shopping
+||slickdeals.com^
+||dealnews.com^
+||woot.com^
