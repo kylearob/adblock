@@ -9,3 +9,9 @@
 ||slickdeals.com^
 ||dealnews.com^
 ||woot.com^
+||asos.com^
+||shein.com^
+
+! News
+
+
